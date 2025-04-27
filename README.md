@@ -21,4 +21,4 @@
 
 ## 项目结构
 
-railway_passenger_analysis/ ├── data/ # 存放数据文件 ├── src/ # 存放源代码 ├── README.md # 项目说明 ├── requirements.txt # 依赖清单 └── .gitignore # Git忽略配置
+railway_passenger_analysis/ #项目名称├── src/ # 存放源代码 ├── README.md # 项目说明 └── requirements.txt # 依赖清单
