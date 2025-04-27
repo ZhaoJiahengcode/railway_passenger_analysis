@@ -22,3 +22,13 @@
 ## 项目结构
 
 railway_passenger_analysis/ #项目名称├── src/ # 存放源代码 ├── README.md # 项目说明 └── requirements.txt # 依赖清单
+
+
+## 运行方式
+1. 创建虚拟环境并激活
+2. 安装依赖 `pip install -r requirements.txt`
+3. 运行主程序 `python src/visualize.py`
+
+## 作者
+赵嘉恒 | 2025年4月
+
